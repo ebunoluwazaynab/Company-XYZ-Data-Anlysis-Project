@@ -19,20 +19,9 @@ Categorical Columns (Columns that have the Object data type) are gotten and thei
 ### STEP 6 – Data Visualization
 The dataset is graphically explored using charts generated with the Seaborn visualization library. 
 
-
-
-# Insights
-
-To-Do - Explain the insights you were able to uncover from the analysing the datasets.
+## INSIGHTS
+The major supermarket branches of company XYZ are located in Lagos, Port Harcout and Abuja. From the information recorded, there are 1000 unique customers across all the branches and Lagos branch recorded the highest number of customers, the most frequent types being the members (i.e. Returning customer with membership card). 
+It was discovered that the female customers are more and they pick the most interest in fashion accessories. It was also discovered that the most used payment method by customers is Epay Payment and it mostly used in Lagos to buy Fashion accessories.
 
 # Future Work
 
-To-Do - Suggest tasks you might include in future work to make this project more robust.
-
-# Standout Section
-
-To-Do - Explain what you did differently in the project following the instructions in the notebook.
-
-# Executive Summary.
-
-To-Do - Include your Executive Summary document in your repository.
